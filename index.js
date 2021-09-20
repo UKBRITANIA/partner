@@ -1,4 +1,4 @@
-const Discord = require("discord.js");
+const Discord = require("851852637258645544");
 const client = new Discord.Client({disableEveryone: true})
 
 
